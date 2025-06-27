@@ -1,2 +1,2 @@
-# Solving Using Python to Access Web Data Course Tasks
-[Uploading Coursera NW9GUHS2HJET Using Python To Access Web Data.pdf…]()
+# Solving the tasks of Using Python to Access Web Data Course
+![Uploading Screenshot 2025-06-27 150857.jpg…]()
